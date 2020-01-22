@@ -1,2 +1,16 @@
+<<<<<<< HEAD
 Cha n g e   1 
 make changes in files
+=======
+Change 1 
+
+change 333
+<<<<<<< Updated upstream
+
+s
+dfsdsfs
+
+=======
+sdfsdsfs
+>>>>>>> Stashed changes
+>>>>>>> bug123
