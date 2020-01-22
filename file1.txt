@@ -1,7 +1,11 @@
 Change 1 
 
 change 333
+<<<<<<< Updated upstream
 
 s
 dfsdsfs
 
+=======
+sdfsdsfs
+>>>>>>> Stashed changes
